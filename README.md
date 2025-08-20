@@ -4,7 +4,7 @@ Este é um projeto de uma Landing Page para uma Cafeteria, desenvolvido com foco
 
 ## 🔗 Acesse o projeto | Live Preview
 
-[👉 Clique aqui para acessar | Click here to view](https://brotherson10.github.io/Landing-page-Cafeteria/)
+[👉 Clique aqui para acessar | Click here to view](https://cafe-cafena.netlify.app/)
 
 
 🚀 Tecnologias Utilizadas
